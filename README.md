@@ -1,8 +1,10 @@
 09.16.2026
 
-<!-- notify 1/2 · My49ABD5 -->
-## Notification 1/2
-Round: Round 1
-To: angelkeeper212000@yahoo.com, angelkeeper2120000@yahoo.com
-At: 2026-09-16 15:25:24
-Id: My49ABD5
+<!-- after round1 -->
+
+<!-- notify 2/2 -->
+## Notification 2/2
+Round: Round 2
+To: angelkeepernow@yahoo.com, angelkeke1sho@yahoo.com
+At: 2026-09-16 15:25:33
+Id: iBauWMEj
